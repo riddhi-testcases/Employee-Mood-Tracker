@@ -22,7 +22,7 @@ A full-stack web application built with Next.js that allows employees to submit 
 ## Project Structure
 
 ```
-/app
+/app                   # This structure is followed for easier enhanced API routing
   /page.tsx            # Home page
   /mood/page.tsx       # Mood submission page
   /admin/page.tsx      # Admin dashboard
