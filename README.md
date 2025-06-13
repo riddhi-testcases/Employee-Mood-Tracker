@@ -38,7 +38,7 @@ A full-stack web application built with Next.js that allows employees to submit 
   /utils.ts            # Utility functions
 ```
 
-## Getting Started
+## Set Up
 
 1. Clone the repository
 2. Install dependencies:
@@ -55,7 +55,7 @@ A full-stack web application built with Next.js that allows employees to submit 
 
 This application can be easily deployed to Vercel:
 
-1. Push your code to a GitHub repository
+1. Push code to GitHub repository
 2. Import the repository in Vercel
 3. Deploy with default settings
 
@@ -65,6 +65,7 @@ This application can be easily deployed to Vercel:
 2. Select your mood (Happy, Neutral, or Sad) and add an optional comment
 3. Submit your mood
 4. View all mood submissions on the Admin page
+( If mood is not visible in admin at first try, submit another; it will be visible and stored from then onwards )
 
 ## Future Improvements
 
