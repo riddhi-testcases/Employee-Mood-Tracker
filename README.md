@@ -21,7 +21,7 @@ A full-stack web application built with Next.js that allows employees to submit 
 
 ## Project Structure
 
-\`\`\`
+```
 /app
   /page.tsx            # Home page
   /mood/page.tsx       # Mood submission page
@@ -36,19 +36,19 @@ A full-stack web application built with Next.js that allows employees to submit 
   /moods.ts            # In-memory storage for mood entries
   /types.ts            # TypeScript interfaces
   /utils.ts            # Utility functions
-\`\`\`
+```
 
 ## Getting Started
 
 1. Clone the repository
 2. Install dependencies:
-   \`\`\`bash
+   ```
    npm install
-   \`\`\`
+   ```
 3. Run the development server:
-   \`\`\`bash
+   ```
    npm run dev
-   \`\`\`
+   ```
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Deployment
